@@ -17,8 +17,11 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### Terminals:    Version Control:
-![Termius](https://img.shields.io/badge/termius-%23000000?style=for-the-badge&logo=termius&logoColor=white)  |  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### Terminals:    
+![Termius](https://img.shields.io/badge/termius-%23000000?style=for-the-badge&logo=termius&logoColor=white)  
+
+### Version Control:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Additional info:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   [![Homo4ka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Homo4ka)](https://github.com/anuraghazra/github-readme-stats)
